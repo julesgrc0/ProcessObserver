@@ -4,6 +4,6 @@
 
 [README](https://github.com/JulesG10/ProcessObserver/blob/master/ProcessObserver/README.md)
 
-> ProcessLogReader
+> ObserverLogsReader
 
-[README](https://github.com/JulesG10/ProcessObserver/blob/master/ProcessLogRead/README.md)
+[README](https://github.com/JulesG10/ProcessObserver/blob/master/ObserverLogsReader/README.md)
